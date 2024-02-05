@@ -1,0 +1,6 @@
+import io.netty.util.concurrent.DefaultProgressivePromise;
+public class FunctionUse1671 {
+public void funcUse() {
+DefaultProgressivePromise defaultprogressivepromise = new DefaultProgressivePromise();
+}
+}

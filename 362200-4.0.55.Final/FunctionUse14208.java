@@ -1,0 +1,7 @@
+import io.netty.channel.epoll.EpollServerSocketChannelConfig;
+public class FunctionUse14208 {
+public void funcUse() {
+EpollServerSocketChannelConfig epollserversocketchannelconfig = new EpollServerSocketChannelConfig();
+epollserversocketchannelconfig.getOptions();
+}
+}
